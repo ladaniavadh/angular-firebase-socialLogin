@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "angular-authentication-firebase"
+    }
+  },
+  "defaultProject": "angular-authentication-firebase",
+  "cli": {
+    "analytics": false
+  }
 }
