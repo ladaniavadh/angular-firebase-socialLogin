@@ -5,12 +5,12 @@
 export const environment = {
   production: false,
   firebase: {
-    apiKey: "AIzaSyBDlo6ca6BhJi-l2cOa_pzV9nEYB-ACPNI",
-    authDomain: "sociallogindemo-26497.firebaseapp.com",
-    databaseURL: "https://sociallogindemo-26497.firebaseio.com",
-    projectId: "sociallogindemo-26497",
-    storageBucket: "sociallogindemo-26497.appspot.com",
-    messagingSenderId: "864360895561"
+    apiKey: "YOUR-API-KEY",
+    authDomain: "YOUR-AUTH-DOMAIN",
+    databaseURL: "YOUR-DATABASE-URL",
+    projectId: "YOUR-PROJECT-ID",
+    storageBucket: "YOUR-STORAGE-BUCKET",
+    messagingSenderId: "YOUR-MESSAGING-ID"
   }  
 };
 
